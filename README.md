@@ -1,10 +1,10 @@
-# Loan Data Quality & Lineage Dashboard
+# Lending Club Data Quality & Lineage Dashboard
 
 This project simulates a real-world data management pipeline using Lending Club's loan dataset. It focuses on identifying data quality issues, tracking lineage from raw ingestion to reporting, and visualizing insights through Power BI. The goal is to demonstrate practical data governance skills relevant to roles in data quality, metadata management, and financial data analysis.
 
 ---
 
-## 🧪 Key Features
+## Key Features
 
 - **Automated Data Quality Checks**
   - Detects missing, zero, and negative values
@@ -25,7 +25,7 @@ This project simulates a real-world data management pipeline using Lending Club'
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python**: pandas, numpy, matplotlib, networkx
 - **Power BI**: Dashboard development and data modeling
