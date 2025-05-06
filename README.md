@@ -31,3 +31,11 @@ This project simulates a real-world data management pipeline using Lending Club'
 - **Power BI**: Dashboard development and data modeling
 - **CSV / Excel**: Reference data and export handling
 
+---
+
+## Acknowledgments
+
+  Lending Club Loan Dataset:
+  https://www.kaggle.com/datasets/wordsforthewise/lending-club
+
+  Built as a portfolio project to demonstrate data governance, quality control, and reporting.
