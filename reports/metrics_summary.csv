@@ -1,0 +1,7 @@
+Rule,Violations
+Zero/Negative loan amount,0
+negative income,0
+Zero income,1667
+FICO < 300 or > 850,0
+Invalid loan term,33
+Duplicates,0
